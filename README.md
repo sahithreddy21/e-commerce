@@ -2,7 +2,7 @@
 
 BazaarX is a high-performance, single-file e-commerce web application engineered entirely with **semantic HTML5**, **modern CSS3 (Custom Properties & Flexbox/Grid)**, and **Vanilla JavaScript (ES6+)**. It features an isolated, client-side data store layer that simulates a live database architecture. The platform delivers a dual-role user experience, shifting seamlessly between a fully functional customer shopping front-end and a secure, analytical Administrator Dashboard.
 
-🔗 **Live Preview:** [https://taskmaster-lyart-one.vercel.app](https://taskmaster-lyart-one.vercel.app)
+🔗 **Live Preview:** [https://e-commerce-cqdem02rc-sahithreddy21s-projects.vercel.app/](https://e-commerce-cqdem02rc-sahithreddy21s-projects.vercel.app/)
 
 ---
 
